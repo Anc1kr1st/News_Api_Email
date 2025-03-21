@@ -4,6 +4,7 @@ The Daily News Digest Email Using Python is a project aimed at delivering curate
 
 ## Tools & Library Used
 ![Static Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Static Badge](	https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/PythonAnywhere-1D9FD7?style=for-the-badge&logoSize=auto&logo=pythonanywhere&logoColor=white)
 
 ## Preview
